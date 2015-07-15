@@ -1,0 +1,66 @@
+/* Forum topics */
+div.forum-post {
+  border: 1px solid #C1C1C1;
+}
+.forum-post-info {
+  border-top: 1px solid #FAFAFA;
+  background: #DDDDDD;
+  background: -webkit-gradient(linear, left top, left bottom, from(#EFEFEF), to(#DDDDDD));
+  background: -moz-linear-gradient(top, #EFEFEF, #DDDDDD);
+  color: #333333;
+  font-weight: bold;
+  border-bottom: 1px solid #C1C1C1;
+}
+
+.forum-posted-on {
+  font-weight: bold;
+}
+
+.forum-post-number a {
+  color: #333333 !important;
+}
+.forum-post-wrapper {
+  background-color: #F5F5F5;
+}
+.forum-post-panel-sub .author-pane .author-name {
+  font-weight: bold;
+}
+.forum-post-panel-sub .author-pane .picture img {
+  border: 1px solid #C1C1C1;
+  background-color: #FFFFFF;
+}
+.forum-post-panel-sub .author-pane .author-pane-label {
+  font-weight: bold;
+}
+.forum-post-panel-main {
+  border-left: 1px solid #C1C1C1;
+  background-color: #FAFAFA;
+}
+
+.forum-post-title {
+  font-weight: bold;
+  border-bottom: 1px solid #C1C1C1;
+}
+.author-signature {
+  font-size: .8em;
+}
+.forum-post-footer {
+  border-top: 1px solid #C1C1C1;
+}
+
+.forum-jump-links {
+  border-right: none;
+}
+.forum-top-post-footer {
+  border: 1px solid #C1C1C1;
+  background: #DDDDDD;
+  background: -webkit-gradient(linear, left top, left bottom, from(#F5F5F5), to(#DDDDDD));
+  background: -moz-linear-gradient(top, #F5F5F5, #DDDDDD);
+}
+.forum-topic-navigation {
+  border: 1px solid #C1C1C1;
+  background: #DDDDDD;
+  background: -webkit-gradient(linear, left top, left bottom, from(#F5F5F5), to(#DDDDDD));
+  background: -moz-linear-gradient(top, #F5F5F5, #DDDDDD);
+}
+/* End */

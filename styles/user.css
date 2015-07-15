@@ -1,0 +1,17 @@
+/* Forum statistics */
+#forum-statistics {
+  font-size: 0.9em;
+  background-color:#FFF;
+}
+#forum-statistics-header {
+  display: none;
+}
+.forum-statistics-sub-header {
+  padding: 10px 22px;
+  background-color: #15222C;
+  margin-bottom: 15px;
+}
+.forum-statistics-sub-body {
+  padding: 20px;
+}
+/* End */
